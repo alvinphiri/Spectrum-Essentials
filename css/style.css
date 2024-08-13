@@ -252,11 +252,29 @@ a {
  border-color:#ffffff;
  border-radius:210px;
  left:0px;
- top:52px;
+ 
  z-index:26;
- width:16px;
- height:16px;
+ width:55px;
+ height:55px;
  position:absolute;
+}
+.header-logo{
+    border-radius:210px;
+    left:0px;
+    z-index:26;
+    width:55px;
+    height:55px;
+    position:absolute;
+    
+}
+.header{
+    display:grid;
+    background:rgba(255,255,255,123);
+    left:0px;
+    top:52px;
+    z-index:26;
+    position:absolute;
+
 }
 #lp-pom-box-641 {
  display:block;
